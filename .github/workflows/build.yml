@@ -1,5 +1,5 @@
 # .github/workflows/build.yml
-name: Build and test demo
+name: Build and test demo2
 on:
   push:
     branches:
